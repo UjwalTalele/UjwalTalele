@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="" alt="banner that says Hello World, I am Ujwal">
+<img src="https://github.com/UjwalTalele/UjwalTalele/blob/master/hi.jpg" alt="banner that says Hello World, I am Ujwal">
 
 Here are some ideas to get you started:
 
