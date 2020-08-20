@@ -1,7 +1,5 @@
 ### Hi there 👋
 <img src="" alt="banner that says Hello World, I am Ujwal">
-<!--
-**UjwalTalele/UjwalTalele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -12,4 +10,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything data :grin:
 - 📫 How to reach me: ujwal.t1103@gmail.com
 - ⚡ Fun fact: The web shows you what you want to see..! :no_mouth:
--->
+
