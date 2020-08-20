@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <img src="https://github.com/UjwalTalele/UjwalTalele/blob/master/hi.jpg" alt="banner that says Hello World, I am Ujwal">
 
 - 🔭 I’m currently working on detecting your potential cardiac arrest :heart:
